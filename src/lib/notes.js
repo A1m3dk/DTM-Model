@@ -1,0 +1,30 @@
+// Our reading of each country. This is OPINION, not data. Add or edit freely:
+// the key is the three-letter country code.
+export const NOTES = {
+  BRA: "Brazil's fertility fell below replacement level very quickly, much faster than Europe managed. Many analysts put it between 'Slowing down' and 'Steady'.",
+  EGY: "Death rates are low and birth rates are falling but still above replacement. A large group of young people keeps growth high, which is typical of 'Slowing down'.",
+  AUS: "A 'Steady' country where most growth now comes from people arriving from abroad, so the pyramid is shaped by migration as much as by births.",
+  NZL: "A 'Steady' country. Fertility is below replacement and migration, including many New Zealanders leaving, matters more than births for the headline number.",
+  ARE: "A poor fit for the model. Around 85 to 90 percent of residents are expatriates, mostly working-age men, so the pyramid looks nothing like a normal national population. Treat the stage as a rough guide only.",
+  SAU: "Borderline between 'Slowing down' and 'Steady'. Fertility has dropped sharply, and a large migrant workforce skews the male share in working ages.",
+  SRB: "Deaths exceed births and emigration adds to the decline. Often labelled 'Shrinking'.",
+  HRV: "Deaths exceed births and many people have left. The population is shrinking.",
+  BIH: "Very low fertility plus heavy emigration. Population figures are uncertain here.",
+  BGR: "One of the fastest-shrinking populations in the world, driven by high death rates and emigration.",
+  ROU: "Deaths exceed births, and large-scale emigration since 1990 adds to the decline.",
+  GRC: "Very low fertility and an old population. Deaths clearly exceed births.",
+  IND: "Fertility is around replacement level, but a young age structure keeps the population growing for decades. Late 'Slowing down' or early 'Steady', depending on who you ask.",
+  CHN: "The population began shrinking around 2022, a result of the one-child policy combined with very fast development.",
+  USA: "A 'Steady' country. Immigration is a significant part of growth.",
+  CAN: "Very low fertility. Growth is almost entirely immigration.",
+  GBR: "'Steady', and close to 'Shrinking' once migration is left out.",
+  DEU: "Deaths have outnumbered births for decades, offset by immigration.",
+  RUS: "Deaths exceed births, and male life expectancy is notably low. Recent figures are uncertain.",
+  JPN: "The textbook 'Shrinking' case: the oldest major population in the world, and getting smaller.",
+  NGA: "High births, falling deaths and very fast growth. A classic 'Booming' country.",
+  ETH: "Late 'Booming', moving toward 'Slowing down'. A very young population.",
+  PAK: "Early 'Slowing down'. Fertility is falling but is still high.",
+  ZAF: "'Slowing down'. HIV/AIDS pushed death rates up and life expectancy down in past decades.",
+  IDN: "Late 'Slowing down', with fertility close to replacement.",
+  MEX: "Fertility has fallen very fast since the 1970s. Late 'Slowing down' moving into 'Steady'."
+};
